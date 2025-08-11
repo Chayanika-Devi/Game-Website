@@ -20,3 +20,18 @@ Björil was left by his family in a zoo due to fleeing from magical political co
 Despite his weight, Björil can’t fly. He lacks the ability to jump high enough to catch an updraft, and even if he did he’d be too clumsy to steer himself in directions that keep him in the air.
 The game is not played in Björil’s actual universe, levels are just the vast landscapes of his mind. The closest you can get to his world in real time are by unlocking photos of memories from his past. 
 Hammie escaped the lab with Björil but parted ways to fight alongside his own in the magical war. He was bought from an aquarium with similar practices to Seaworld… (rip Shamu)   
+
+# Design
+<img width="1670" height="848" alt="image" src="https://github.com/user-attachments/assets/3bcbbaec-bdcf-4790-85c4-2a5ff6411ef6" />
+
+<img width="1245" height="402" alt="image" src="https://github.com/user-attachments/assets/1b59f211-c222-44ff-8e3b-9cfe57c8f77d" />
+
+<img width="1160" height="731" alt="image" src="https://github.com/user-attachments/assets/fd6800ba-4fcb-4235-98d6-a5d047be288d" />
+
+<img width="1156" height="544" alt="image" src="https://github.com/user-attachments/assets/5245a3f4-e18e-4154-a63c-4673eec43894" />
+
+<img width="1147" height="342" alt="image" src="https://github.com/user-attachments/assets/1f6537b1-66c9-4db0-80b2-4dd5a5b12d4d" />
+
+
+
+
