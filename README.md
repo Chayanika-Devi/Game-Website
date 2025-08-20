@@ -25,9 +25,6 @@ Hammie escaped the lab with Björil but parted ways to fight alongside his own i
 <img width="1670" height="848" alt="image" src="https://github.com/user-attachments/assets/3bcbbaec-bdcf-4790-85c4-2a5ff6411ef6" />
 
 
-
-<img width="1160" height="731" alt="image" src="https://github.com/user-attachments/assets/fd6800ba-4fcb-4235-98d6-a5d047be288d" />
-
 <img width="1156" height="544" alt="image" src="https://github.com/user-attachments/assets/5245a3f4-e18e-4154-a63c-4673eec43894" />
 
 <img width="1147" height="342" alt="image" src="https://github.com/user-attachments/assets/1f6537b1-66c9-4db0-80b2-4dd5a5b12d4d" />
