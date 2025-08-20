@@ -24,11 +24,10 @@ Hammie escaped the lab with Björil but parted ways to fight alongside his own i
 # Design
 <img width="1670" height="848" alt="image" src="https://github.com/user-attachments/assets/3bcbbaec-bdcf-4790-85c4-2a5ff6411ef6" />
 
+Just download the zip file to the main branch, run main.py, and have fun!
 
-<img width="1156" height="544" alt="image" src="https://github.com/user-attachments/assets/5245a3f4-e18e-4154-a63c-4673eec43894" />
+by Mark Schittenhelm and Phoebe Chang with Chayanika Devi.
 
-<img width="1147" height="342" alt="image" src="https://github.com/user-attachments/assets/1f6537b1-66c9-4db0-80b2-4dd5a5b12d4d" />
-
-
+Note: Due to bugs, and very limited documentation and resources on hosting python games online, we couldn't do it. But with just python installed it will run perfect!
 
 
